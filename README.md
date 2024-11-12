@@ -1,2 +1,4 @@
 # html-generator
-A C++ program that can generate a text web page automatically, without performing the actual HTML coding.
+A terminal program written in C++ that can generate a textual web page automatically, without performing the actual HTML coding.
+
+
